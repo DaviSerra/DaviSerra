@@ -3,16 +3,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviSerra&theme=nord_dark" width="400"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviSerra&theme=nord_dark" width="400"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" width="400"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviSerra&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviSerra&theme=nord_dark"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff"/></td>
     </tr>
   </table>
 </div>
 
 ### Main Skills
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img height: 55px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
