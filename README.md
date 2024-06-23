@@ -3,9 +3,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><img width="49%" height="195px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviSerra&theme=nord_dark"/></td>
-      <td><img width="49%" height="195px"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviSerra&theme=nord_dark"/></td>
-      <td><img width="49%" height="195px"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviSerra&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviSerra&theme=nord_dark"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSerra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff"/></td>
     </tr>
   </table>
 </div>
