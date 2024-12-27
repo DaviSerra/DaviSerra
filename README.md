@@ -1,8 +1,8 @@
-<h3 align="left">hi, i'm a front end developer :)</h3>
+<h2 align="center">hi, i'm a front end developer :)</h3>
 
 ###
 
-<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FvazhmN2Y5bWQ4djM1bzNwc2ExMmJlNnEydjRnNGttZGFhZWxmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.webp"  />
+<img align="left" height="250" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FvazhmN2Y5bWQ4djM1bzNwc2ExMmJlNnEydjRnNGttZGFhZWxmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.webp"  />
 
 ###
 
