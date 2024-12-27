@@ -3,7 +3,7 @@
 </div>  
   
 
-## hi there, i'm a front-end developer  
+## hi, i'm a front-end developer  
   
 
 <div align="center">
