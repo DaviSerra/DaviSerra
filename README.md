@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Developer focused on front-end and interface design (UI), constantly evolving to improve UI and UX skills. I seek to create modern, intuitive and functional experiences, while continuing to learn and specialize in user-centered design.</p>
+<h4 align="left">Developer focused on front-end and interface design (UI), constantly evolving to improve UI and UX skills. I seek to create modern, intuitive and functional experiences, while continuing to learn and specialize in user-centered design.</h4>
 
 ###
 
