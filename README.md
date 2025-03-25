@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVtODFqYWFzeXo0cWZqNzNqYncyam55Zm55d2FtcmNkbDR4ZjUyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2SUcSZq8KPzjAUjOH6/giphy.gif" align="right" height="60" width="65" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVtODFqYWFzeXo0cWZqNzNqYncyam55Zm55d2FtcmNkbDR4ZjUyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2SUcSZq8KPzjAUjOH6/giphy.gif" align="right" height="55" width="65" />
 </div>  
 
 ## hi, i'm a front-end developer  
