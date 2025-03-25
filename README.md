@@ -1,11 +1,11 @@
 <div align="right">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXppdWZ3aGtkNzlva3QweHlldXRzbzk2bTl0c3h6ejhyOHExeXYxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aP1bewbXeogPnJD6tS/giphy.webp" align="right" height="65" width="65" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVtODFqYWFzeXo0cWZqNzNqYncyam55Zm55d2FtcmNkbDR4ZjUyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2SUcSZq8KPzjAUjOH6/giphy.gif" align="right" height="60" width="65" />
 </div>  
 
 ## hi, i'm a front-end developer  
    
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FvazhmN2Y5bWQ4djM1bzNwc2ExMmJlNnEydjRnNGttZGFhZWxmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.webp" align="center" height="325" width="325" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNibXF2OHZiMnc5cXd4YmJmYXlzMjM1NXB5dHA4b294OWU2OXp6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZO1dHzO/giphy.gif" align="center" height="325" width="400" />
 </div>  
   
 
