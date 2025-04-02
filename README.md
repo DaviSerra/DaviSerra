@@ -12,8 +12,6 @@
 
 > *Developer specialized in front-end and user interface design (UI), constantly evolving to improve my UI and UX skills. I seek to create modern, intuitive and functional experiences, while continuing to learn and specialize in user-centered design.*
 
-## Technologies and skills 🚀
-
 <table>
   <tr>
     <td valign="top" width="50%">
