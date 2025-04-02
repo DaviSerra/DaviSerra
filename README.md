@@ -23,7 +23,7 @@
 ### • F R O N T - E N D  
 <div align="center"> 
    
-   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,javascript,html,css,sass)](https://skillicons.dev)  
+   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,sass,typescript,javascript,html,css)](https://skillicons.dev)  
    
 </div>
 
