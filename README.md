@@ -4,7 +4,7 @@
 
 # hi, im a front-end developer 
 
-<div align="center">
+<div>
 <img src="https://media1.tenor.com/m/2Xhh1vssSEIAAAAC/dinkin-my-oup-falin-touden.gif" align="center" height="325" width="400" />
 </div>  
 
@@ -36,6 +36,29 @@
         <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
         <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
         <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h1 align="center">📚 Studies & Learning</h1>
+
+<table  align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🌐 Web Development</h3>
+        <div align="center">
+          <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+          <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></a>
+          <a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" /></a>
+        </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📱 Mobile Development</h3>
+      <div align="center">
+        <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
+        <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+        <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" /></a>
       </div>
     </td>
   </tr>
