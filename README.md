@@ -4,7 +4,7 @@
 
 # hi, im a front-end developer 
 
-<div>
+<div align="center">
 <img src="https://media1.tenor.com/m/2Xhh1vssSEIAAAAC/dinkin-my-oup-falin-touden.gif" align="center" height="325" width="400" />
 </div>  
 
