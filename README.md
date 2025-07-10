@@ -48,11 +48,11 @@
   <tr>
     <td valign="top" width="50%">
       <h3>🌐 Desenvolvimento Web</h3>
-        <div align="center">
-          <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-          <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
-          <a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" /></a>
-        </div>
+      <div align="center">
+        <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+        <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
+        <a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /></a>
+      </div>
     </td>
   </tr>
 </table>
