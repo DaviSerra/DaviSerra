@@ -1,11 +1,11 @@
 <div align="right">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGM5NzE4Y2ozZWdnMWFnZHl6aDRwMW95YzB0NWU0Mmo4MzhmMHFqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YVqrGhAMZsSdDhk44M/giphy.gif" align="right" height="70" width="65" />
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGM5NzE4Y2ozZWdnMWFnZHl6aDRwMW95YzB0NWU0Mmo4MzhmMHFqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YVqrGhAMZsSdDhk44M/giphy.gif" align="right" height="70" width="65" /> -->
 </div>  
 
 # 🌌 hi, im a front-end developer 
 
 <div align="center">
-<img src="https://media1.tenor.com/m/2Xhh1vssSEIAAAAC/dinkin-my-oup-falin-touden.gif" align="center" height="325" width="400" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJpeG03NDE5dWV5Ym9scG83czZncGZscnZiY2cxZm00MzVsazI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" align="center" height="325" width="400" />
 </div>  
 
 ## 🚀 Sobre mim
